@@ -2,10 +2,10 @@
 
 In this project
 
-+ Self-implement Neural Network and some advanced learning techniques: drop_out, batch_norm
++ Self-implement Neural Network and some advanced learning techniques: drop_out, batch_norm, weight_decay
 + Run experiments with [MovieLen](https://grouplens.org/datasets/movielens/100k/) and [HecLen](https://grouplens.org/datasets/hetrec-2011/) dataset
 
-## I. Software Dependencies
+## I. Dependencies
    Anaconda 2.x is required.
 
 ## II. How to use the code
