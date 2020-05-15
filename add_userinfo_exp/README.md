@@ -21,11 +21,11 @@ In this project
 ![Model](images/exp_fusionlayer.png)
 
 
-## III. Experiments
+### Input - Output of model
 
 ![Model](images/inout.png)
 
-## IV. Results
+## III. Results
 
 RMSE of models:
 + Baseline: 0.6170
