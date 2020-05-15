@@ -1,25 +1,25 @@
-Project of Movie Ratings Prediction using Artificial Neural Networks
+# Project of Movie Ratings Prediction using Artificial Neural Networks
 
-I. Software Dependencies
+## I. Software Dependencies
 	Anaconda 2.x is required.
 
-II. How to use the code
-	Create a new IPython Notebook and open our 'How to use.ipynb' to know how to use.
+## II. How to use the code
+	Clone our ['How to use.ipynb'](https://github.com/anvy1102/movie-rating-prediction/blob/master/model_struct_exp/How%20to%20use.ipynb) to know how to use.
 
-III. File Structure
-	Data 					Folder storing dataset
+## III. File Structure
+	Data 						Folder storing dataset
 	active_function.py				Activation functions implementation
-	ANN.py					Neural Network implementation
-	batch_norm.py				Batch Normalization implemetation
-	dropout.py				Dropout implemetation
+	ANN.py						Neural Network implementation
+	batch_norm.py					Batch Normalization implemetation
+	dropout.py					Dropout implemetation
 	error_function.py				Error functions implementation
-	get_data.py				Pre-process and read data from Dataset
-	parm.py					Declare and init parameters of model
-	plot.py					Graph Plotter
+	get_data.py					Pre-process and read data from Dataset
+	parm.py						Declare and init parameters of model
+	plot.py						Graph Plotter
 	run_ml100k.py, run_hec.py			Loading data, parameters and other functions to train and test model
 	How to use.ipynb				Present sample code
-	Results-ml100k.ipynb, Results_Hec.ipynb	Report our Exepiment and Result on ML 100K Data Set
-	README.txt				This file
+	Results-ml100k.ipynb, Results_Hec.ipynb		Report our Exepiment and Result on ML 100K Data Set
+	README.md					This file
 
 1. Data folder
 	Describe the original dataset and create our files to prepare for data pre-processing
