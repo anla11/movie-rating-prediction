@@ -1,4 +1,4 @@
-# Project of Movie Ratings Prediction using Artificial Neural Networks
+# Movie Ratings Prediction using Artificial Neural Networks
 
 In this project
 
