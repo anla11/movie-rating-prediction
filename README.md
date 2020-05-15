@@ -1,5 +1,7 @@
 # Experiments with Neural Network and Movie Rating Prediction 
 
+This includes two projects:
+
 ## 1. Experiments with model structures
 
 + Self-implement Neural Network and some advanced learning techniques: drop_out, batch_norm, weight_decay
