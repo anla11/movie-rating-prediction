@@ -1,5 +1,10 @@
 # Project of Movie Ratings Prediction using Artificial Neural Networks
 
+In this project
+
++ Self-implement Neural Network and some advanced learning techniques: drop_out, batch_norm
++ Run experiments with [MovieLen](https://grouplens.org/datasets/movielens/100k/) and [HecLen](https://grouplens.org/datasets/hetrec-2011/) dataset
+
 ## I. Software Dependencies
    Anaconda 2.x is required.
 
