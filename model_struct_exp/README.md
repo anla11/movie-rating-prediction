@@ -1,10 +1,10 @@
 # Project of Movie Ratings Prediction using Artificial Neural Networks
 
 ## I. Software Dependencies
-	Anaconda 2.x is required.
+    Anaconda 2.x is required.
 
 ## II. How to use the code
-	Clone our ['How to use.ipynb'](https://github.com/anvy1102/movie-rating-prediction/blob/master/model_struct_exp/How%20to%20use.ipynb) to know how to use.
+    Clone our ['How to use.ipynb'](https://github.com/anvy1102/movie-rating-prediction/blob/master/model_struct_exp/How%20to%20use.ipynb) to know how to use.
 
 ## III. File Structure
 	Data 						Folder storing dataset
