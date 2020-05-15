@@ -4,6 +4,7 @@ In this project
 
 + Self-implement Neural Network and some advanced learning techniques: drop_out, batch_norm
 + Run experiments with [MovieLen](https://grouplens.org/datasets/movielens/100k/) and [HecLen](https://grouplens.org/datasets/hetrec-2011/) dataset
++ Full report: [here](https://github.com/anvy1102/movie-rating-prediction/blob/master/add_userinfo_exp/doc/report.pdf)
 
 ## I. Prequitesites
 
